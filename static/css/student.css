@@ -1,0 +1,30 @@
+.return{
+    text-decoration: none;
+    color: white;
+}
+  
+.return:hover {
+    color: white;
+    line-height: 15px;
+}
+  
+.return_input {
+    border: 0;
+    outline: none;
+    border-radius: 50px;
+}
+  
+.add_student_return {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+  
+.delete_student_return {
+    margin-top: 10px;
+    margin-left: 670px;
+}
+
+.edit_student_return {
+    margin-top: 10px;
+    margin-left: 428px;
+}
